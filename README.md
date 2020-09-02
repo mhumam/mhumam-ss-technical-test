@@ -10,7 +10,7 @@
 ## Description:
 
 The application used to display post data is based on data from https://api.github.com
-This application is built using Reactjs, AntDesign, Javascript, CSS. 
+This application is built using Reactjs, Redux, React Redux, AntDesign, Javascript, CSS. 
 
 ## Installation and Setup Instructions
 
